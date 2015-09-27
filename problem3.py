@@ -33,4 +33,4 @@ print("diagSum(5) = " + str(diagSum(5)) + "    " + "diagSumByRingNum(2) = " + st
 
 print("diagSum(7) = " + str(diagSum(7)) + "    " + "diagSumByRingNum(3) = " + str(diagSumByRingNum(3)))
 
-print("diagSum(1095) = " + str(diagSum(1095)) + "    " + "diagSumByRingNum(547) = " + str(diagSumByRingNum(547)))
+print("diagSum(1095) = " + str(diagSum(1195)) + "    " + "diagSumByRingNum(547) = " + str(diagSumByRingNum(597)))
